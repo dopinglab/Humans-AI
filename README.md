@@ -28,12 +28,14 @@ Your Node Name
 Port prefix
 
 184
-# Clone project repository
+**Clone project repository**
+
+```
 cd && rm -rf humans
 git clone https://github.com/humansdotai/humans
 cd humans
 git checkout v0.2.2
-
+```
 # Build binary
 make install
 
