@@ -36,8 +36,11 @@ git clone https://github.com/humansdotai/humans
 cd humans
 git checkout v0.2.2
 ```
-# Build binary
+
+**Build binary**
+```
 make install
+```
 
 # Prepare cosmovisor directories
 mkdir -p $HOME/.humansd/cosmovisor/genesis/bin
