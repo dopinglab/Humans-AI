@@ -57,8 +57,10 @@ humansd config keyring-backend test
 humansd config node tcp://localhost:18457
 ```
 
-# Initialize the node
+**Initialize the node**
+```
 humansd init "Your Node Name" --chain-id humans_3000-31
+```
 
 # Download genesis and addrbook files
 curl -L https://snapshots-testnet.nodejumper.io/humans/genesis.json > $HOME/.humansd/config/genesis.json
