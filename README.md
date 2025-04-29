@@ -10,7 +10,8 @@ Recommended
 ```
 
 Rent On Hetzner | Rent On OVH
-Dependencies Installation
+
+**Dependencies Installation**
 
 **Install dependencies for building from source**
 ```
