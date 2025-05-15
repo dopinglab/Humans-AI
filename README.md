@@ -215,3 +215,4 @@ source <(curl -s https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts
 sudo hostnamectl set-hostname YOUR_SERVERNAME
 ```
 
+Initialize project structure
