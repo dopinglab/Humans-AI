@@ -216,3 +216,4 @@ sudo hostnamectl set-hostname YOUR_SERVERNAME
 ```
 
 Initialize project structure
+Add project overview
