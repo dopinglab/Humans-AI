@@ -219,3 +219,4 @@ Initialize project structure
 Add project overview
 Include setup instructions
 Add usage documentation
+Document API details
