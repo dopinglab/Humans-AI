@@ -221,3 +221,4 @@ Include setup instructions
 Add usage documentation
 Document API details
 Add contribution guidelines
+Include licensing information
