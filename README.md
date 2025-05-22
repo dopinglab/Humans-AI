@@ -222,3 +222,4 @@ Add usage documentation
 Document API details
 Add contribution guidelines
 Include licensing information
+Add code of conduct
