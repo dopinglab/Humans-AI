@@ -224,3 +224,4 @@ Add contribution guidelines
 Include licensing information
 Add code of conduct
 Update project milestones
+Add testing instructions
