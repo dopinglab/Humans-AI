@@ -227,3 +227,4 @@ Update project milestones
 Add testing instructions
 Document environment setup
 Add FAQ section
+Include troubleshooting tips
