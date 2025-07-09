@@ -215,4 +215,3 @@ source <(curl -s https://raw.githubusercontent.com/nodejumper-org/cosmos-scripts
 sudo hostnamectl set-hostname YOUR_SERVERNAME
 ```
 
-**now you can logout (exit) and login again using ssh admin@YOUR_SERVER_IP**
